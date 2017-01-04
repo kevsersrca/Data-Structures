@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MidtermExample
-{
-    class StackOperation<T> where T:IComparable
+﻿    class StackOperation<T> where T:IComparable
     {
         public bool isPalindrome(string s)
         {
@@ -47,4 +39,3 @@ namespace MidtermExample
             return toplam / count;
         }
     }
-}

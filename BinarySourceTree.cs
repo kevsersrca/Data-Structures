@@ -1,13 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MidtermExample
-{
-    class BinarySourceTree<T> where T:IComparable
+﻿    class BinarySourceTree<T> where T:IComparable
     {
           /*                                   BİNARY SOURCE TREE 
                                               ___ ___________ ____
@@ -248,5 +239,4 @@ namespace MidtermExample
 
             }
         }
-       }
-}
+       

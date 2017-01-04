@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MidtermExample
-{
-    class LinkedList<T> where T:IComparable
+﻿    class LinkedList<T> where T:IComparable
     {
         Node<T> head;
         //linkedlistin önüne ekleme methodu
@@ -110,4 +102,3 @@ namespace MidtermExample
         }
         
     }
-}

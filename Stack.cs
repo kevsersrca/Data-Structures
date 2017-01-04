@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MidtermExample
-{
-    class Stack<T>
+﻿ class Stack<T>
     {
         T[] values;
         int top;
@@ -81,4 +73,3 @@ namespace MidtermExample
             Console.WriteLine();
         }
     }
-}

@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MidtermExample
-{
-    class CQueue<T> where T:IComparable
+﻿    class CQueue<T> where T:IComparable
     {
         T[] values;
         int front=-1, rear=-1;
@@ -59,4 +51,3 @@ namespace MidtermExample
 
         }
     }
-}

@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MidtermExample
-{
-    class DLinkedList<T> where T:IComparable
+﻿    class DLinkedList<T> where T:IComparable
     {
         DNode<T> head;
         public void AddToFront(T val)
@@ -166,4 +158,3 @@ namespace MidtermExample
             }
         }
     }
-}

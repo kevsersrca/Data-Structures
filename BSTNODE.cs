@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MidtermExample
-{
-    class BSTNODE<T> where T:IComparable
+﻿    class BSTNODE<T> where T:IComparable
     {
         /*    ___ ___________ ____
          *   |   |           |    | 
@@ -67,4 +59,3 @@ namespace MidtermExample
             return value.ToString();
         }
     }
-}
