@@ -11,3 +11,4 @@ Konu | Açıklama
 [Circular Linked List](LinkedList) | AddToFront,addToEnd,deleteFirst,deleteLast,display,size,delete methodlarını içerir.
 [Binary Source Tree](BinarySourceTree) | Inoreder,preOrder,postOrder,add,search,findParent,findMinNode,findMin,findMax,findNode,nodeCount,findSuccessor,isLeaf,hasOneChield,delete methodlarını içerir
 [Graph](Graph) | CreateVertex,createEdge,addVertex,search,addEdge,display,vertexCount,visited,copyGraph,deleteVertex,indegree,findZeroIndegree,topologicalSorting methodlarını içerir.
+[Quick Sort](Sort) | Quick Sort Algoritması içerir.
