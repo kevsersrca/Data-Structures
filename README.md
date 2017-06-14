@@ -1,5 +1,7 @@
 # Data-Structures
 
+Veri Yapıları kodlarını içerir.
+
 Konu | Açıklama
 ---- | -----------
 [Stack](Stack) | Pop,push,peek,isEmpty,isFull,display,clear,size methodlarını içerir
